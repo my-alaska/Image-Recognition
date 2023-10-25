@@ -3,3 +3,7 @@ imgs/
 GANs/saved_models
 GANs/szczoor
 *.pt
+*.csv
+*.txt
+/.ipynb_checkpoints
+/transfer learning/image_data/*
