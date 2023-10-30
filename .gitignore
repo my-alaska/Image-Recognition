@@ -5,5 +5,5 @@ GANs/szczoor
 *.pt
 *.csv
 *.txt
-/.ipynb_checkpoints
+*/.ipynb_checkpoints/
 /transfer learning/image_data/*
