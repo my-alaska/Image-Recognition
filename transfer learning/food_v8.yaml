@@ -1,4 +1,4 @@
-path: .
+path: "./datasets"
 train: 'train_images'
 val: 'valid_images'
 test: 'test_images'
