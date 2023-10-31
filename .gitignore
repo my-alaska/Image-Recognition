@@ -1,9 +1,12 @@
 .idea
+*/.ipynb_checkpoints/
 imgs/
 GANs/saved_models
 GANs/szczoor
+/transfer learning/image_data/*
+/transfer learning/runs
 *.pt
 *.csv
 *.txt
-*/.ipynb_checkpoints/
-/transfer learning/image_data/*
+*.jpg
+*.cache

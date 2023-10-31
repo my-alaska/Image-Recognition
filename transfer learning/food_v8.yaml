@@ -1,0 +1,8 @@
+path: .
+train: 'train_images'
+val: 'valid_images'
+test: 'test_images'
+
+# class names
+names:
+  0: 'Food'
