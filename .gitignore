@@ -5,6 +5,7 @@ GANs/saved_models
 GANs/szczoor
 /transfer learning/image_data/*
 /transfer learning/runs
+/DDPM/media
 *.pt
 *.csv
 *.txt
