@@ -32,10 +32,10 @@ identifies the image in Open Images. A sample file could be:
 """
 
 import argparse
-from concurrent import futures
 import os
 import re
 import sys
+from concurrent import futures
 
 import boto3
 import botocore

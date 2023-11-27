@@ -6,6 +6,7 @@ GANs/szczoor
 /transfer learning/image_data/*
 /transfer learning/runs
 /DDPM/media
+/vision transformer/data
 *.pt
 *.csv
 *.txt
